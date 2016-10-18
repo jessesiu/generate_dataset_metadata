@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100085</identifier>
+	<creators>
+		<creator>
+			<creatorName>Zhuo  Wang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Simon  White</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Juan  Pascual-Anaya</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Chunyi  Li</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Yoshihito  Niimura</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Wenqi  Li</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Amonida  Zadissa</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Zhiyong  Huang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Dongming  Fang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Zhiqiang  Xiong</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Bo  Wang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Yao  Ming</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Yan  Chen</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Yuan  Zheng</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Shigehiro  Kuraku</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Javier  Herrero</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Miguel  Pignatelli</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Kathryn  Beal</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Masafumi  Nozawa</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Qiye  Li</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Juan  Wang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Hongyan  Zhang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Lili  Yu</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Shuji  Shigenobu</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0003-4640-2323</nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Junyi  Wang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Jiannan  Liu</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Paul  Flicek</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-3897-7955</nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Steve  Searle</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Jun  Wang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-1422-3331</nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Shigeru  Kuratani</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Ye  Yin</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Bronwen  Aken</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Guojie  Zhang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Naoki  Irie</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+	</creators>
+	<titles>
+		<title xml:lang="en-us">Genomic data of the green sea turtle (Chelonia mydas)</title>
+	</titles>
+	<publisher>GigaScience Database</publisher>
+	<publicationYear>2014</publicationYear>
+	<subjects>
+		<subject xml:lang="en-us">Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2016-10-18</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/ng.2615</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>2 GB</size>
+	</sizes>
+	<rightsList>
+		<rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</rights>
+	</rightsList>
+	<descriptions>
+		<description xml:lang="en-us" descriptionType="Abstract">Green turtles are long-lived and may take up to 59 years to reach sexual maturity. Undertaking tremendous feats of navigation, adults return to the same beach to breed each season. DNA from the green sea turtle was collected in Hong Kong. We sequenced the 2.24 Gb genome to a depth of approximately 82.3 X with short reads from a series of libraries with various insert sizes ( 170bp, 500bp, 800bp, 2kb, 5kb, 10kb,20kb and 40kb) on a HiSeq 2000 sequencer.The assembled scaffolds of high quality sequences total 180.94 Gb, with the contig and scaffold N50 values of 20.4 kb and 3.78 Mb respectively. We identified 19,633 protein-coding genes with an mean length of 1456 bp.Experimental procedures and animal care were conducted in strict accordance with guidelines approved by the RIKEN Animal Experiments Committee (Approval IDs H14-23 and H16-10).</description>
+	</descriptions>
+</resource>
+

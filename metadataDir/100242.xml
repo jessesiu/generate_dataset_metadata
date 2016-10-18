@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100242</identifier>
+	<creators>
+		<creator>
+			<creatorName>Qing  Mao</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Serban  Ciotlos</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Rebecca Yu Zhang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Madeleine P Ball</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Robert  Chin</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Paolo  Carnevali</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Nina  Barua</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Staci  Nguyen</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Misha R Agarwal</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Tom  Clegg</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Abram  Connelly</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Ward  Vandewege</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Alexander Wait Zaranek</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Preston W Estep</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>George M Church</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Radoje  Drmanac</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Brock A Peters</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+	</creators>
+	<titles>
+		<title xml:lang="en-us">Supporting data for "The Whole Genome Sequences and Experimentally Phased Haplotypes of 184 Personal Genomes"</title>
+	</titles>
+	<publisher>GigaScience Database</publisher>
+	<publicationYear>2016</publicationYear>
+	<subjects>
+		<subject xml:lang="en-us">Genomic</subject>
+		<subject xml:lang="en-us">Long Fragment Read</subject>
+		<subject xml:lang="en-us">LFR</subject>
+		<subject xml:lang="en-us">Complete Genomics</subject>
+		<subject xml:lang="en-us">Personal Genome Project</subject>
+		<subject xml:lang="en-us">PGP</subject>
+		<subject xml:lang="en-us">WGS</subject>
+		<subject xml:lang="en-us">Haplotypes</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2016-10-18</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<sizes>
+		<size>2GB</size>
+	</sizes>
+	<rightsList>
+		<rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</rights>
+	</rightsList>
+	<descriptions>
+		<description xml:lang="en-us" descriptionType="Abstract">Since the completion of the Human Genome Project in 2003 it has been estimated that over 200,000 individual whole human genomes have been sequenced; a stunning accomplishment in such a short period of time.  However, most of these were sequenced without experimental haplotype data and as such are missing an important aspect of genome biology.  In addition, much of the genomic data generated is not available to the public and lacks phenotypic information.
+As part of the Personal Genome Project (PGP), 184 participants’ blood samples were collected and processed with Complete Genomics’ Long Fragment Read (LFR) technology (Supplementary Table 1).  Here we report the results for the experimental whole genome haplotyping and sequencing of these samples to an average read coverage depth of 100X.  This level of coverage is approximately 3 fold higher than the read coverage applied to most whole human genome assemblies and was done to ensure the highest quality results.  Currently 114 genomes from this data set are freely available on GigaDB and are associated with rich phenotypic data provided in this manuscript.  It is our expectation that all 184 participants’ genomes will be made freely available on GigaDB in the near future.  20 genomes were sequenced at least two times using independently made LFR barcoded libraries for reproducibility analyses.  Additionally, 7 genomes were also sequenced using Complete Genomics’ standard non-barcoded library process. 
+These genomes represent a unique source of haplotype and phenotype data for the scientific community.  In addition, we report 2.6 million high quality rare variants not previously identified in dbSNP or Phase 3 1000 Genomes Project (1KG) data.  The data presented here should help expand our understanding of the human genome evolution and functioning.
+</description>
+	</descriptions>
+</resource>
+

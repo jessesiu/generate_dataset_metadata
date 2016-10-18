@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100031</identifier>
+	<creators>
+		<creator>
+			<creatorName>Xiaodong  Fang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Zhiyong  Huang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Lan  Yang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Yuanxin  Chen</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Xuanting  Jiang</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Yue  Feng</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+		<creator>
+			<creatorName>Yong  Li</creatorName>
+			<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID"></nameIdentifier>
+			<affiliation></affiliation>
+		</creator>
+	</creators>
+	<titles>
+		<title xml:lang="en-us">Genomic data from the Wuzhishan inbred pig (Sus scrofa) </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject xml:lang="en-us">Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2016-10-18</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1186/2047-217X-1-16</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>273 GB</size>
+	</sizes>
+	<rightsList>
+		<rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</rights>
+	</rightsList>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description xml:lang="en-us" descriptionType="Abstract">The pig (Sus scrofa) is an economically important food source and also serves as an important model organism.  Here we present the sequence of one male inbred Wuzhishan pig (WZSP) at generation F20.  DNA was extracted from the ear of this species.  We applied a whole genome shotgun strategy and next-generation sequencing technologies using Illumina HiSeq 2000 for sequencing, in total 340.53 Gb of raw data were generated and 210.79 Gb high quality data were used for assembly.  The assembly result of WZSP was 2.6 Gbp, and the N50 size of contigs and scaffolds were 23.5 Kbp and 5.4 Mbp, respectively.  38% of the genome was identified as repeats and 20,326 genes were identified from homolog prediction.</description>
+	</descriptions>
+</resource>
+
